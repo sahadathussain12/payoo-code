@@ -10,7 +10,7 @@ document.getElementById('loging')
 
     if(constactNumber == '01328654064'&& pin == '1122'){
         alert('loging success')
-         window.location.assign("/home.html")
+         window.location.assign("home.html")
     }
    
     else{
